@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff;
+    color: #343a40;
+}
+
+h1 {
+    font-weight: bold;
+    color: #007bff;
+    font-size: 2.5em;
+    text-shadow: 2px 2px #f8f9fa;
+}
+
+#cat-info {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+#cat-info img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#cat-info p {
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: #555555;
+}
+
+#fetch-cat {
+    font-size: 1.2em;
+    padding: 10px 20px;
+}
